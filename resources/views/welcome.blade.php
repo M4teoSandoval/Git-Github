@@ -173,7 +173,10 @@
       <aside class="hero-card" aria-label="Resumen de rendimiento">
         <h2 class="section-title" style="margin:0 0 8px">Serie Carbon X</h2>
         <p class="muted" style="margin:0">La combinación perfecta de potencia y precisión. Optimizada para pista y ciudad.</p>
+        <br/>
+        <img src="https://i.blogs.es/5769df/kawasaki-ninja-h2-carbon-2017-3-/1366_2000.jpg" alt="Moto edición Black Gold con detalles en dorado y fibra de carbono"/>
         <div class="hero-stats">
+    
           <div class="stat"><div class="muted">0–100 km/h</div><b>3.2 s</b></div>
           <div class="stat"><div class="muted">Potencia</div><b>210 HP</b></div>
           <div class="stat"><div class="muted">Peso</div><b>189 kg</b></div>
@@ -232,7 +235,7 @@
         </article>
         <!-- Card 2 -->
         <article class="card" role="listitem" aria-label="Apex GT Limited">
-          <div class="card-media" style="background:url('https://www.incolmotos-yamaha.com.co/wp-content/uploads/2018/03/Azul-5-1.jpg') center/cover no-repeat"></div>
+          <div class="card-media" style="background:url('https://i.pinimg.com/originals/47/b3/de/47b3dec32762fb58e811cb6f8800c77a.jpg') center/cover no-repeat"></div>
           <div class="card-body">
             <div style="display:flex;align-items:center;gap:10px">
               <span class="chip">Mt - 09v2</span>
@@ -291,7 +294,7 @@
         </div>
       </div>
       <figure>
-        <img src="https://images.unsplash.com/photo-1516981879613-4f458edc4c34?q=80&w=1600&auto=format&fit=crop" alt="Moto edición Black Gold con detalles en dorado y fibra de carbono"/>
+        <img src="https://i.pinimg.com/736x/7a/58/03/7a58039bc5b7baa01f99b3db13885c5e.jpg" alt="Moto edición Black Gold con detalles en dorado y fibra de carbono"/>
       </figure>
     </div>
   </section>
@@ -348,7 +351,7 @@
           <li>Envíos asegurados a todo el país</li>
         </ul>
         <div style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap">
-          <a class="btn-ghost" href="#">WhatsApp</a>
+          <a class="btn-ghost" href="#" >WhatsApp</a>
           <a class="btn-ghost" href="#">Instagram</a>
           <a class="btn-ghost" href="#">Ubicación</a>
         </div>
