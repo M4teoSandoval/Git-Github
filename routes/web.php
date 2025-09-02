@@ -9,3 +9,12 @@ Route::get('/', function () {
 Route::get('/listaproductos', function () {
     return view('listadeproductos');
 });
+
+Route::get('/detalle', function () {
+    return view('detalle');
+});
+
+
+Route::get('/carrito', function () {
+    return view('carritocompra');
+});
