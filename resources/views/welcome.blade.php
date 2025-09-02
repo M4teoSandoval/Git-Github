@@ -153,7 +153,7 @@
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M6 6h15l-1.5 9h-12L6 6Z" stroke="#0b0b0d" stroke-width="2"/><circle cx="9" cy="20" r="1.5" fill="#0b0b0d"/><circle cx="18" cy="20" r="1.5" fill="#0b0b0d"/></svg>
             Comprar ahora
           </a>
-          <a class="btn btn-outline" href="#features">Ver detalles</a>
+          <a class="btn btn-outline" href="/detalle">Ver detalles</a>
         </div>
         <div class="badges" aria-label="Beneficios">
           <div class="badge">
